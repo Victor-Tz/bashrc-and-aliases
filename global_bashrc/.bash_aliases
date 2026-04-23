@@ -15,7 +15,7 @@
     alias upup='sudo nala update && sudo nala upgrade'
     alias ins='sudo nala install'
     alias prg='sudo nala purge'
-    alias pls='sudo !!'
+    alias please='sudo !!'
 # Navigation
     alias ..='cd ..'
     alias ....='cd ../..'
